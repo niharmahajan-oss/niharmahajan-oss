@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 💽 Computer Science Student<br>- 😄 Pronouns: He/Him<br>- ⚡ Fun fact: I'm always free, even when I'm not!<br>-->
+<br/>- 💽 Computer Science Student<br>- Pronouns: He/Him<br>- ⚡ Fun fact: I'm always free, even when I'm not!<br>-->
 
 
 ## 🌐 Socials:
